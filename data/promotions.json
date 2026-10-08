@@ -1,0 +1,902 @@
+[
+  {
+    "PromotionID": "PR0001",
+    "PromotionName": "Campaign 001",
+    "ProductID": "P0424",
+    "StartDate": "2026-06-19",
+    "EndDate": "2026-07-15",
+    "DiscountPercentage": 25,
+    "ModifiedDate": "2026-04-07 14:25:52"
+  },
+  {
+    "PromotionID": "PR0002",
+    "PromotionName": "Campaign 002",
+    "ProductID": "P0363",
+    "StartDate": "2025-10-30",
+    "EndDate": "2025-11-18",
+    "DiscountPercentage": 5,
+    "ModifiedDate": "2025-12-05 15:03:30"
+  },
+  {
+    "PromotionID": "PR0003",
+    "PromotionName": "Campaign 003",
+    "ProductID": "P0235",
+    "StartDate": "2025-09-18",
+    "EndDate": "2025-10-13",
+    "DiscountPercentage": 10,
+    "ModifiedDate": "2025-04-02 13:49:11"
+  },
+  {
+    "PromotionID": "PR0004",
+    "PromotionName": "Campaign 004",
+    "ProductID": "P0296",
+    "StartDate": "2025-12-26",
+    "EndDate": "2026-01-10",
+    "DiscountPercentage": 30,
+    "ModifiedDate": "2025-08-22 09:43:21"
+  },
+  {
+    "PromotionID": "PR0005",
+    "PromotionName": "Campaign 005",
+    "ProductID": "P0174",
+    "StartDate": "2025-04-12",
+    "EndDate": "2025-05-09",
+    "DiscountPercentage": 10,
+    "ModifiedDate": "2025-07-09 20:37:32"
+  },
+  {
+    "PromotionID": "PR0006",
+    "PromotionName": "Campaign 006",
+    "ProductID": "P0385",
+    "StartDate": "2025-12-03",
+    "EndDate": "2026-01-07",
+    "DiscountPercentage": 15,
+    "ModifiedDate": "2026-01-22 07:28:31"
+  },
+  {
+    "PromotionID": "PR0007",
+    "PromotionName": "Campaign 007",
+    "ProductID": "P0037",
+    "StartDate": "2025-06-24",
+    "EndDate": "2025-07-08",
+    "DiscountPercentage": 15,
+    "ModifiedDate": "2025-06-23 07:18:30"
+  },
+  {
+    "PromotionID": "PR0008",
+    "PromotionName": "Campaign 008",
+    "ProductID": "P0078",
+    "StartDate": "2026-07-03",
+    "EndDate": "2026-07-31",
+    "DiscountPercentage": 15,
+    "ModifiedDate": "2025-08-09 09:38:12"
+  },
+  {
+    "PromotionID": "PR0009",
+    "PromotionName": "Campaign 009",
+    "ProductID": "P0429",
+    "StartDate": "2026-09-24",
+    "EndDate": "2026-09-30",
+    "DiscountPercentage": 20,
+    "ModifiedDate": "2026-04-23 17:45:05"
+  },
+  {
+    "PromotionID": "PR0010",
+    "PromotionName": "Campaign 010",
+    "ProductID": "P0415",
+    "StartDate": "2026-08-23",
+    "EndDate": "2026-09-03",
+    "DiscountPercentage": 5,
+    "ModifiedDate": "2025-04-04 05:22:56"
+  },
+  {
+    "PromotionID": "PR0011",
+    "PromotionName": "Campaign 011",
+    "ProductID": "P0304",
+    "StartDate": "2026-03-08",
+    "EndDate": "2026-03-16",
+    "DiscountPercentage": 20,
+    "ModifiedDate": "2025-06-19 08:26:49"
+  },
+  {
+    "PromotionID": "PR0012",
+    "PromotionName": "Campaign 012",
+    "ProductID": "P0168",
+    "StartDate": "2025-10-20",
+    "EndDate": "2025-11-28",
+    "DiscountPercentage": 20,
+    "ModifiedDate": "2025-08-28 21:03:28"
+  },
+  {
+    "PromotionID": "PR0013",
+    "PromotionName": "Campaign 013",
+    "ProductID": "P0110",
+    "StartDate": "2025-10-09",
+    "EndDate": "2025-10-23",
+    "DiscountPercentage": 10,
+    "ModifiedDate": "2025-09-30 03:51:52"
+  },
+  {
+    "PromotionID": "PR0014",
+    "PromotionName": "Campaign 014",
+    "ProductID": "P0443",
+    "StartDate": "2026-05-11",
+    "EndDate": "2026-06-18",
+    "DiscountPercentage": 15,
+    "ModifiedDate": "2025-06-11 21:18:31"
+  },
+  {
+    "PromotionID": "PR0015",
+    "PromotionName": "Campaign 015",
+    "ProductID": "P0234",
+    "StartDate": "2025-11-03",
+    "EndDate": "2025-12-16",
+    "DiscountPercentage": 15,
+    "ModifiedDate": "2025-08-09 07:24:54"
+  },
+  {
+    "PromotionID": "PR0016",
+    "PromotionName": "Campaign 016",
+    "ProductID": "P0369",
+    "StartDate": "2025-03-02",
+    "EndDate": "2025-03-06",
+    "DiscountPercentage": 20,
+    "ModifiedDate": "2025-07-17 21:19:49"
+  },
+  {
+    "PromotionID": "PR0017",
+    "PromotionName": "Campaign 017",
+    "ProductID": "P0371",
+    "StartDate": "2026-02-08",
+    "EndDate": "2026-03-04",
+    "DiscountPercentage": 15,
+    "ModifiedDate": "2025-07-11 03:35:20"
+  },
+  {
+    "PromotionID": "PR0018",
+    "PromotionName": "Campaign 018",
+    "ProductID": "P0485",
+    "StartDate": "2025-01-14",
+    "EndDate": "2025-02-14",
+    "DiscountPercentage": 15,
+    "ModifiedDate": "2026-09-10 01:31:02"
+  },
+  {
+    "PromotionID": "PR0019",
+    "PromotionName": "Campaign 019",
+    "ProductID": "P0217",
+    "StartDate": "2026-07-18",
+    "EndDate": "2026-08-08",
+    "DiscountPercentage": 25,
+    "ModifiedDate": "2025-05-25 01:03:24"
+  },
+  {
+    "PromotionID": "PR0020",
+    "PromotionName": "Campaign 020",
+    "ProductID": "P0327",
+    "StartDate": "2025-08-10",
+    "EndDate": "2025-09-12",
+    "DiscountPercentage": 5,
+    "ModifiedDate": "2025-03-01 02:03:57"
+  },
+  {
+    "PromotionID": "PR0021",
+    "PromotionName": "Campaign 021",
+    "ProductID": "P0268",
+    "StartDate": "2026-05-06",
+    "EndDate": "2026-05-19",
+    "DiscountPercentage": 30,
+    "ModifiedDate": "2025-05-14 14:07:26"
+  },
+  {
+    "PromotionID": "PR0022",
+    "PromotionName": "Campaign 022",
+    "ProductID": "P0355",
+    "StartDate": "2026-06-24",
+    "EndDate": "2026-07-05",
+    "DiscountPercentage": 15,
+    "ModifiedDate": "2026-01-02 00:33:29"
+  },
+  {
+    "PromotionID": "PR0023",
+    "PromotionName": "Campaign 023",
+    "ProductID": "P0350",
+    "StartDate": "2026-01-06",
+    "EndDate": "2026-02-01",
+    "DiscountPercentage": 20,
+    "ModifiedDate": "2025-11-26 14:21:48"
+  },
+  {
+    "PromotionID": "PR0024",
+    "PromotionName": "Campaign 024",
+    "ProductID": "P0365",
+    "StartDate": "2026-04-05",
+    "EndDate": "2026-05-14",
+    "DiscountPercentage": 10,
+    "ModifiedDate": "2026-04-05 20:02:30"
+  },
+  {
+    "PromotionID": "PR0025",
+    "PromotionName": "Campaign 025",
+    "ProductID": "P0293",
+    "StartDate": "2025-08-14",
+    "EndDate": "2025-09-26",
+    "DiscountPercentage": 20,
+    "ModifiedDate": "2026-08-28 10:40:05"
+  },
+  {
+    "PromotionID": "PR0026",
+    "PromotionName": "Campaign 026",
+    "ProductID": "P0383",
+    "StartDate": "2026-07-13",
+    "EndDate": "2026-08-14",
+    "DiscountPercentage": 30,
+    "ModifiedDate": "2026-08-12 07:53:11"
+  },
+  {
+    "PromotionID": "PR0027",
+    "PromotionName": "Campaign 027",
+    "ProductID": "P0094",
+    "StartDate": "2025-04-09",
+    "EndDate": "2025-04-30",
+    "DiscountPercentage": 30,
+    "ModifiedDate": "2026-08-14 10:54:05"
+  },
+  {
+    "PromotionID": "PR0028",
+    "PromotionName": "Campaign 028",
+    "ProductID": "P0354",
+    "StartDate": "2025-11-28",
+    "EndDate": "2025-12-12",
+    "DiscountPercentage": 5,
+    "ModifiedDate": "2025-04-10 02:34:59"
+  },
+  {
+    "PromotionID": "PR0029",
+    "PromotionName": "Campaign 029",
+    "ProductID": "P0054",
+    "StartDate": "2026-06-23",
+    "EndDate": "2026-06-26",
+    "DiscountPercentage": 25,
+    "ModifiedDate": "2025-01-25 19:15:48"
+  },
+  {
+    "PromotionID": "PR0030",
+    "PromotionName": "Campaign 030",
+    "ProductID": "P0486",
+    "StartDate": "2026-01-14",
+    "EndDate": "2026-02-24",
+    "DiscountPercentage": 20,
+    "ModifiedDate": "2026-02-08 11:50:01"
+  },
+  {
+    "PromotionID": "PR0031",
+    "PromotionName": "Campaign 031",
+    "ProductID": "P0197",
+    "StartDate": "2025-01-02",
+    "EndDate": "2025-02-11",
+    "DiscountPercentage": 15,
+    "ModifiedDate": "2025-09-20 10:18:18"
+  },
+  {
+    "PromotionID": "PR0032",
+    "PromotionName": "Campaign 032",
+    "ProductID": "P0143",
+    "StartDate": "2026-02-21",
+    "EndDate": "2026-03-15",
+    "DiscountPercentage": 20,
+    "ModifiedDate": "2025-01-26 23:11:05"
+  },
+  {
+    "PromotionID": "PR0033",
+    "PromotionName": "Campaign 033",
+    "ProductID": "P0364",
+    "StartDate": "2025-02-22",
+    "EndDate": "2025-03-28",
+    "DiscountPercentage": 10,
+    "ModifiedDate": "2025-02-07 01:11:08"
+  },
+  {
+    "PromotionID": "PR0034",
+    "PromotionName": "Campaign 034",
+    "ProductID": "P0411",
+    "StartDate": "2025-09-20",
+    "EndDate": "2025-10-22",
+    "DiscountPercentage": 10,
+    "ModifiedDate": "2025-11-18 03:14:13"
+  },
+  {
+    "PromotionID": "PR0035",
+    "PromotionName": "Campaign 035",
+    "ProductID": "P0011",
+    "StartDate": "2026-03-16",
+    "EndDate": "2026-04-07",
+    "DiscountPercentage": 15,
+    "ModifiedDate": "2026-01-09 00:34:29"
+  },
+  {
+    "PromotionID": "PR0036",
+    "PromotionName": "Campaign 036",
+    "ProductID": "P0456",
+    "StartDate": "2025-06-30",
+    "EndDate": "2025-07-31",
+    "DiscountPercentage": 20,
+    "ModifiedDate": "2025-03-22 23:38:24"
+  },
+  {
+    "PromotionID": "PR0037",
+    "PromotionName": "Campaign 037",
+    "ProductID": "P0263",
+    "StartDate": "2026-06-19",
+    "EndDate": "2026-07-30",
+    "DiscountPercentage": 25,
+    "ModifiedDate": "2025-03-15 14:23:05"
+  },
+  {
+    "PromotionID": "PR0038",
+    "PromotionName": "Campaign 038",
+    "ProductID": "P0086",
+    "StartDate": "2026-08-01",
+    "EndDate": "2026-08-10",
+    "DiscountPercentage": 30,
+    "ModifiedDate": "2026-05-26 07:47:42"
+  },
+  {
+    "PromotionID": "PR0039",
+    "PromotionName": "Campaign 039",
+    "ProductID": "P0166",
+    "StartDate": "2025-12-09",
+    "EndDate": "2026-01-04",
+    "DiscountPercentage": 10,
+    "ModifiedDate": "2026-07-30 13:48:35"
+  },
+  {
+    "PromotionID": "PR0040",
+    "PromotionName": "Campaign 040",
+    "ProductID": "P0103",
+    "StartDate": "2026-06-07",
+    "EndDate": "2026-06-15",
+    "DiscountPercentage": 20,
+    "ModifiedDate": "2025-08-18 15:55:14"
+  },
+  {
+    "PromotionID": "PR0041",
+    "PromotionName": "Campaign 041",
+    "ProductID": "P0414",
+    "StartDate": "2025-07-13",
+    "EndDate": "2025-08-22",
+    "DiscountPercentage": 30,
+    "ModifiedDate": "2025-12-05 05:13:05"
+  },
+  {
+    "PromotionID": "PR0042",
+    "PromotionName": "Campaign 042",
+    "ProductID": "P0328",
+    "StartDate": "2025-01-09",
+    "EndDate": "2025-02-16",
+    "DiscountPercentage": 10,
+    "ModifiedDate": "2025-11-24 00:24:24"
+  },
+  {
+    "PromotionID": "PR0043",
+    "PromotionName": "Campaign 043",
+    "ProductID": "P0318",
+    "StartDate": "2025-03-05",
+    "EndDate": "2025-04-06",
+    "DiscountPercentage": 30,
+    "ModifiedDate": "2026-04-29 00:57:16"
+  },
+  {
+    "PromotionID": "PR0044",
+    "PromotionName": "Campaign 044",
+    "ProductID": "P0382",
+    "StartDate": "2026-02-15",
+    "EndDate": "2026-03-09",
+    "DiscountPercentage": 25,
+    "ModifiedDate": "2025-12-05 17:55:42"
+  },
+  {
+    "PromotionID": "PR0045",
+    "PromotionName": "Campaign 045",
+    "ProductID": "P0491",
+    "StartDate": "2025-11-30",
+    "EndDate": "2025-12-11",
+    "DiscountPercentage": 30,
+    "ModifiedDate": "2026-09-17 19:53:15"
+  },
+  {
+    "PromotionID": "PR0046",
+    "PromotionName": "Campaign 046",
+    "ProductID": "P0242",
+    "StartDate": "2026-05-19",
+    "EndDate": "2026-07-02",
+    "DiscountPercentage": 20,
+    "ModifiedDate": "2026-01-17 08:35:55"
+  },
+  {
+    "PromotionID": "PR0047",
+    "PromotionName": "Campaign 047",
+    "ProductID": "P0183",
+    "StartDate": "2026-02-25",
+    "EndDate": "2026-03-08",
+    "DiscountPercentage": 25,
+    "ModifiedDate": "2025-03-15 14:51:00"
+  },
+  {
+    "PromotionID": "PR0048",
+    "PromotionName": "Campaign 048",
+    "ProductID": "P0034",
+    "StartDate": "2026-05-30",
+    "EndDate": "2026-06-16",
+    "DiscountPercentage": 5,
+    "ModifiedDate": "2026-03-03 23:27:21"
+  },
+  {
+    "PromotionID": "PR0049",
+    "PromotionName": "Campaign 049",
+    "ProductID": "P0465",
+    "StartDate": "2026-08-17",
+    "EndDate": "2026-09-05",
+    "DiscountPercentage": 20,
+    "ModifiedDate": "2025-02-01 17:42:38"
+  },
+  {
+    "PromotionID": "PR0050",
+    "PromotionName": "Campaign 050",
+    "ProductID": "P0402",
+    "StartDate": "2026-07-06",
+    "EndDate": "2026-08-05",
+    "DiscountPercentage": 15,
+    "ModifiedDate": "2025-01-01 21:33:27"
+  },
+  {
+    "PromotionID": "PR0051",
+    "PromotionName": "Campaign 051",
+    "ProductID": "P0387",
+    "StartDate": "2026-09-20",
+    "EndDate": "2026-09-29",
+    "DiscountPercentage": 25,
+    "ModifiedDate": "2026-03-22 21:08:58"
+  },
+  {
+    "PromotionID": "PR0052",
+    "PromotionName": "Campaign 052",
+    "ProductID": "P0080",
+    "StartDate": "2026-03-27",
+    "EndDate": "2026-04-05",
+    "DiscountPercentage": 10,
+    "ModifiedDate": "2025-09-19 13:43:01"
+  },
+  {
+    "PromotionID": "PR0053",
+    "PromotionName": "Campaign 053",
+    "ProductID": "P0093",
+    "StartDate": "2025-03-17",
+    "EndDate": "2025-04-23",
+    "DiscountPercentage": 25,
+    "ModifiedDate": "2025-10-17 20:00:26"
+  },
+  {
+    "PromotionID": "PR0054",
+    "PromotionName": "Campaign 054",
+    "ProductID": "P0060",
+    "StartDate": "2026-08-01",
+    "EndDate": "2026-09-13",
+    "DiscountPercentage": 5,
+    "ModifiedDate": "2026-08-25 15:42:17"
+  },
+  {
+    "PromotionID": "PR0055",
+    "PromotionName": "Campaign 055",
+    "ProductID": "P0142",
+    "StartDate": "2025-04-18",
+    "EndDate": "2025-05-10",
+    "DiscountPercentage": 5,
+    "ModifiedDate": "2025-03-25 22:59:00"
+  },
+  {
+    "PromotionID": "PR0056",
+    "PromotionName": "Campaign 056",
+    "ProductID": "P0171",
+    "StartDate": "2025-01-05",
+    "EndDate": "2025-01-17",
+    "DiscountPercentage": 30,
+    "ModifiedDate": "2025-07-30 01:42:00"
+  },
+  {
+    "PromotionID": "PR0057",
+    "PromotionName": "Campaign 057",
+    "ProductID": "P0392",
+    "StartDate": "2025-12-18",
+    "EndDate": "2026-01-04",
+    "DiscountPercentage": 30,
+    "ModifiedDate": "2026-02-11 18:01:15"
+  },
+  {
+    "PromotionID": "PR0058",
+    "PromotionName": "Campaign 058",
+    "ProductID": "P0162",
+    "StartDate": "2026-03-19",
+    "EndDate": "2026-04-27",
+    "DiscountPercentage": 5,
+    "ModifiedDate": "2025-06-22 01:40:54"
+  },
+  {
+    "PromotionID": "PR0059",
+    "PromotionName": "Campaign 059",
+    "ProductID": "P0374",
+    "StartDate": "2026-04-24",
+    "EndDate": "2026-05-23",
+    "DiscountPercentage": 20,
+    "ModifiedDate": "2025-02-22 11:23:13"
+  },
+  {
+    "PromotionID": "PR0060",
+    "PromotionName": "Campaign 060",
+    "ProductID": "P0023",
+    "StartDate": "2026-09-27",
+    "EndDate": "2026-09-30",
+    "DiscountPercentage": 25,
+    "ModifiedDate": "2026-08-30 13:34:17"
+  },
+  {
+    "PromotionID": "PR0061",
+    "PromotionName": "Campaign 061",
+    "ProductID": "P0417",
+    "StartDate": "2025-08-07",
+    "EndDate": "2025-09-19",
+    "DiscountPercentage": 20,
+    "ModifiedDate": "2026-02-04 07:34:28"
+  },
+  {
+    "PromotionID": "PR0062",
+    "PromotionName": "Campaign 062",
+    "ProductID": "P0385",
+    "StartDate": "2026-03-06",
+    "EndDate": "2026-04-12",
+    "DiscountPercentage": 25,
+    "ModifiedDate": "2025-04-10 20:28:57"
+  },
+  {
+    "PromotionID": "PR0063",
+    "PromotionName": "Campaign 063",
+    "ProductID": "P0318",
+    "StartDate": "2025-09-21",
+    "EndDate": "2025-10-26",
+    "DiscountPercentage": 10,
+    "ModifiedDate": "2025-04-07 15:18:42"
+  },
+  {
+    "PromotionID": "PR0064",
+    "PromotionName": "Campaign 064",
+    "ProductID": "P0299",
+    "StartDate": "2026-03-28",
+    "EndDate": "2026-04-22",
+    "DiscountPercentage": 5,
+    "ModifiedDate": "2025-10-18 02:44:42"
+  },
+  {
+    "PromotionID": "PR0065",
+    "PromotionName": "Campaign 065",
+    "ProductID": "P0295",
+    "StartDate": "2026-01-26",
+    "EndDate": "2026-02-15",
+    "DiscountPercentage": 10,
+    "ModifiedDate": "2025-11-03 18:33:07"
+  },
+  {
+    "PromotionID": "PR0066",
+    "PromotionName": "Campaign 066",
+    "ProductID": "P0206",
+    "StartDate": "2026-05-01",
+    "EndDate": "2026-05-08",
+    "DiscountPercentage": 10,
+    "ModifiedDate": "2025-11-11 02:11:32"
+  },
+  {
+    "PromotionID": "PR0067",
+    "PromotionName": "Campaign 067",
+    "ProductID": "P0424",
+    "StartDate": "2025-10-31",
+    "EndDate": "2025-11-08",
+    "DiscountPercentage": 15,
+    "ModifiedDate": "2025-05-16 08:36:13"
+  },
+  {
+    "PromotionID": "PR0068",
+    "PromotionName": "Campaign 068",
+    "ProductID": "P0264",
+    "StartDate": "2025-12-17",
+    "EndDate": "2026-01-04",
+    "DiscountPercentage": 20,
+    "ModifiedDate": "2026-08-19 14:14:24"
+  },
+  {
+    "PromotionID": "PR0069",
+    "PromotionName": "Campaign 069",
+    "ProductID": "P0450",
+    "StartDate": "2026-09-26",
+    "EndDate": "2026-09-30",
+    "DiscountPercentage": 15,
+    "ModifiedDate": "2025-12-18 17:34:13"
+  },
+  {
+    "PromotionID": "PR0070",
+    "PromotionName": "Campaign 070",
+    "ProductID": "P0398",
+    "StartDate": "2026-07-27",
+    "EndDate": "2026-08-26",
+    "DiscountPercentage": 20,
+    "ModifiedDate": "2026-04-01 21:57:58"
+  },
+  {
+    "PromotionID": "PR0071",
+    "PromotionName": "Campaign 071",
+    "ProductID": "P0411",
+    "StartDate": "2026-02-18",
+    "EndDate": "2026-03-20",
+    "DiscountPercentage": 15,
+    "ModifiedDate": "2025-11-07 02:21:22"
+  },
+  {
+    "PromotionID": "PR0072",
+    "PromotionName": "Campaign 072",
+    "ProductID": "P0334",
+    "StartDate": "2026-09-19",
+    "EndDate": "2026-09-30",
+    "DiscountPercentage": 5,
+    "ModifiedDate": "2025-01-06 18:00:32"
+  },
+  {
+    "PromotionID": "PR0073",
+    "PromotionName": "Campaign 073",
+    "ProductID": "P0398",
+    "StartDate": "2025-09-01",
+    "EndDate": "2025-09-24",
+    "DiscountPercentage": 30,
+    "ModifiedDate": "2026-01-19 18:56:39"
+  },
+  {
+    "PromotionID": "PR0074",
+    "PromotionName": "Campaign 074",
+    "ProductID": "P0046",
+    "StartDate": "2025-02-17",
+    "EndDate": "2025-03-22",
+    "DiscountPercentage": 10,
+    "ModifiedDate": "2026-02-25 15:45:44"
+  },
+  {
+    "PromotionID": "PR0075",
+    "PromotionName": "Campaign 075",
+    "ProductID": "P0387",
+    "StartDate": "2026-05-24",
+    "EndDate": "2026-06-19",
+    "DiscountPercentage": 20,
+    "ModifiedDate": "2026-08-03 15:03:58"
+  },
+  {
+    "PromotionID": "PR0076",
+    "PromotionName": "Campaign 076",
+    "ProductID": "P0310",
+    "StartDate": "2026-03-01",
+    "EndDate": "2026-03-19",
+    "DiscountPercentage": 30,
+    "ModifiedDate": "2026-03-01 13:13:03"
+  },
+  {
+    "PromotionID": "PR0077",
+    "PromotionName": "Campaign 077",
+    "ProductID": "P0168",
+    "StartDate": "2025-09-30",
+    "EndDate": "2025-11-05",
+    "DiscountPercentage": 25,
+    "ModifiedDate": "2026-03-19 07:13:49"
+  },
+  {
+    "PromotionID": "PR0078",
+    "PromotionName": "Campaign 078",
+    "ProductID": "P0444",
+    "StartDate": "2025-08-23",
+    "EndDate": "2025-09-22",
+    "DiscountPercentage": 5,
+    "ModifiedDate": "2026-08-10 00:20:42"
+  },
+  {
+    "PromotionID": "PR0079",
+    "PromotionName": "Campaign 079",
+    "ProductID": "P0097",
+    "StartDate": "2026-07-22",
+    "EndDate": "2026-08-31",
+    "DiscountPercentage": 25,
+    "ModifiedDate": "2026-01-04 07:14:07"
+  },
+  {
+    "PromotionID": "PR0080",
+    "PromotionName": "Campaign 080",
+    "ProductID": "P0228",
+    "StartDate": "2026-01-28",
+    "EndDate": "2026-02-14",
+    "DiscountPercentage": 5,
+    "ModifiedDate": "2025-02-08 03:27:44"
+  },
+  {
+    "PromotionID": "PR0081",
+    "PromotionName": "Campaign 081",
+    "ProductID": "P0229",
+    "StartDate": "2025-06-03",
+    "EndDate": "2025-06-29",
+    "DiscountPercentage": 30,
+    "ModifiedDate": "2026-02-17 23:34:41"
+  },
+  {
+    "PromotionID": "PR0082",
+    "PromotionName": "Campaign 082",
+    "ProductID": "P0407",
+    "StartDate": "2025-12-09",
+    "EndDate": "2025-12-30",
+    "DiscountPercentage": 30,
+    "ModifiedDate": "2026-03-18 08:41:24"
+  },
+  {
+    "PromotionID": "PR0083",
+    "PromotionName": "Campaign 083",
+    "ProductID": "P0198",
+    "StartDate": "2025-03-18",
+    "EndDate": "2025-04-30",
+    "DiscountPercentage": 20,
+    "ModifiedDate": "2025-07-25 10:06:00"
+  },
+  {
+    "PromotionID": "PR0084",
+    "PromotionName": "Campaign 084",
+    "ProductID": "P0129",
+    "StartDate": "2026-05-09",
+    "EndDate": "2026-06-04",
+    "DiscountPercentage": 25,
+    "ModifiedDate": "2025-05-15 23:46:52"
+  },
+  {
+    "PromotionID": "PR0085",
+    "PromotionName": "Campaign 085",
+    "ProductID": "P0280",
+    "StartDate": "2025-02-23",
+    "EndDate": "2025-02-28",
+    "DiscountPercentage": 5,
+    "ModifiedDate": "2026-04-26 04:51:24"
+  },
+  {
+    "PromotionID": "PR0086",
+    "PromotionName": "Campaign 086",
+    "ProductID": "P0077",
+    "StartDate": "2025-03-07",
+    "EndDate": "2025-04-08",
+    "DiscountPercentage": 5,
+    "ModifiedDate": "2025-05-03 02:31:40"
+  },
+  {
+    "PromotionID": "PR0087",
+    "PromotionName": "Campaign 087",
+    "ProductID": "P0317",
+    "StartDate": "2025-04-16",
+    "EndDate": "2025-05-09",
+    "DiscountPercentage": 25,
+    "ModifiedDate": "2026-02-16 22:08:15"
+  },
+  {
+    "PromotionID": "PR0088",
+    "PromotionName": "Campaign 088",
+    "ProductID": "P0342",
+    "StartDate": "2026-09-22",
+    "EndDate": "2026-09-30",
+    "DiscountPercentage": 15,
+    "ModifiedDate": "2026-04-05 00:51:02"
+  },
+  {
+    "PromotionID": "PR0089",
+    "PromotionName": "Campaign 089",
+    "ProductID": "P0038",
+    "StartDate": "2026-04-08",
+    "EndDate": "2026-05-15",
+    "DiscountPercentage": 15,
+    "ModifiedDate": "2026-09-18 12:40:39"
+  },
+  {
+    "PromotionID": "PR0090",
+    "PromotionName": "Campaign 090",
+    "ProductID": "P0022",
+    "StartDate": "2025-10-27",
+    "EndDate": "2025-11-29",
+    "DiscountPercentage": 25,
+    "ModifiedDate": "2025-06-20 04:34:06"
+  },
+  {
+    "PromotionID": "PR0091",
+    "PromotionName": "Campaign 091",
+    "ProductID": "P0178",
+    "StartDate": "2026-04-25",
+    "EndDate": "2026-05-09",
+    "DiscountPercentage": 30,
+    "ModifiedDate": "2026-05-12 02:09:16"
+  },
+  {
+    "PromotionID": "PR0092",
+    "PromotionName": "Campaign 092",
+    "ProductID": "P0134",
+    "StartDate": "2026-09-25",
+    "EndDate": "2026-09-30",
+    "DiscountPercentage": 25,
+    "ModifiedDate": "2025-01-28 19:16:08"
+  },
+  {
+    "PromotionID": "PR0093",
+    "PromotionName": "Campaign 093",
+    "ProductID": "P0164",
+    "StartDate": "2026-06-07",
+    "EndDate": "2026-07-06",
+    "DiscountPercentage": 15,
+    "ModifiedDate": "2026-07-08 13:01:12"
+  },
+  {
+    "PromotionID": "PR0094",
+    "PromotionName": "Campaign 094",
+    "ProductID": "P0329",
+    "StartDate": "2025-09-02",
+    "EndDate": "2025-09-10",
+    "DiscountPercentage": 30,
+    "ModifiedDate": "2025-05-31 16:04:08"
+  },
+  {
+    "PromotionID": "PR0095",
+    "PromotionName": "Campaign 095",
+    "ProductID": "P0238",
+    "StartDate": "2025-03-31",
+    "EndDate": "2025-04-03",
+    "DiscountPercentage": 15,
+    "ModifiedDate": "2026-02-10 10:32:50"
+  },
+  {
+    "PromotionID": "PR0096",
+    "PromotionName": "Campaign 096",
+    "ProductID": "P0327",
+    "StartDate": "2026-07-21",
+    "EndDate": "2026-08-27",
+    "DiscountPercentage": 20,
+    "ModifiedDate": "2026-01-02 17:02:02"
+  },
+  {
+    "PromotionID": "PR0097",
+    "PromotionName": "Campaign 097",
+    "ProductID": "P0062",
+    "StartDate": "2026-07-14",
+    "EndDate": "2026-07-24",
+    "DiscountPercentage": 20,
+    "ModifiedDate": "2026-07-05 19:42:08"
+  },
+  {
+    "PromotionID": "PR0098",
+    "PromotionName": "Campaign 098",
+    "ProductID": "P0341",
+    "StartDate": "2026-04-21",
+    "EndDate": "2026-04-27",
+    "DiscountPercentage": 5,
+    "ModifiedDate": "2026-03-04 05:49:21"
+  },
+  {
+    "PromotionID": "PR0099",
+    "PromotionName": "Campaign 099",
+    "ProductID": "P0106",
+    "StartDate": "2025-07-04",
+    "EndDate": "2025-07-09",
+    "DiscountPercentage": 20,
+    "ModifiedDate": "2026-04-12 04:19:49"
+  },
+  {
+    "PromotionID": "PR0100",
+    "PromotionName": "Campaign 100",
+    "ProductID": "P0182",
+    "StartDate": "2025-02-07",
+    "EndDate": "2025-02-18",
+    "DiscountPercentage": 5,
+    "ModifiedDate": "2026-06-08 06:03:39"
+  }
+]

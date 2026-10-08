@@ -1,0 +1,51 @@
+StoreID,StoreName,City,State,StoreType,OpeningDate,ModifiedDate
+S001,Parramatta Standard Store 1,Parramatta,NSW,Standard,2021-09-19,2026-05-28 21:18:36
+S002,Hobart Outlet Store 2,Hobart,TAS,Outlet,2024-10-05,2026-09-21 02:27:37
+S003,Gold Coast Flagship Store 3,Gold Coast,QLD,Flagship,2020-07-01,2025-12-23 20:41:38
+S004,Gold Coast Standard Store 4,Gold Coast,QLD,Standard,2019-08-10,2025-05-17 17:45:30
+S005,Gold Coast Outlet Store 5,Gold Coast,QLD,Outlet,2018-11-21,2025-05-13 00:36:44
+S006,Melbourne Flagship Store 6,Melbourne,VIC,Flagship,2018-09-27,2026-07-16 02:31:42
+S007,Brisbane Standard Store 7,Brisbane,QLD,Standard,2024-06-13,2026-04-14 07:49:04
+S008,Geelong Outlet Store 8,Geelong,VIC,Outlet,2018-11-22,2025-10-22 19:27:15
+S009,Parramatta Flagship Store 9,Parramatta,NSW,Flagship,2022-10-02,2025-01-27 18:34:39
+S010,Geelong Standard Store 10,Geelong,VIC,Standard,2018-08-09,2025-11-19 21:00:18
+S011,Gold Coast Outlet Store 11,Gold Coast,QLD,Outlet,2024-10-14,2026-02-03 20:54:06
+S012,Hobart Flagship Store 12,Hobart,TAS,Flagship,2023-01-27,2025-10-03 01:01:54
+S013,Gold Coast Standard Store 13,Gold Coast,QLD,Standard,2023-07-04,2026-01-11 16:13:16
+S014,Brisbane Outlet Store 14,Brisbane,QLD,Outlet,2022-01-04,2026-09-07 23:17:10
+S015,Geelong Flagship Store 15,Geelong,VIC,Flagship,2018-03-09,2025-11-03 05:01:43
+S016,Canberra Standard Store 16,Canberra,ACT,Standard,2021-04-20,2025-04-02 16:11:34
+S017,Perth Outlet Store 17,Perth,WA,Outlet,2021-08-05,2025-10-05 18:02:53
+S018,Adelaide Flagship Store 18,Adelaide,SA,Flagship,2024-02-20,2026-03-30 05:20:21
+S019,Melbourne Standard Store 19,Melbourne,VIC,Standard,2022-03-09,2025-11-15 03:21:56
+S020,Geelong Outlet Store 20,Geelong,VIC,Outlet,2024-10-19,2025-02-19 18:13:29
+S021,Gold Coast Flagship Store 21,Gold Coast,QLD,Flagship,2023-01-08,2026-04-23 00:53:54
+S022,Adelaide Standard Store 22,Adelaide,SA,Standard,2024-06-30,2026-01-24 21:57:01
+S023,Perth Outlet Store 23,Perth,WA,Outlet,2019-01-15,2026-03-10 18:17:07
+S024,Parramatta Flagship Store 24,Parramatta,NSW,Flagship,2022-02-04,2025-04-13 05:52:34
+S025,Brisbane Standard Store 25,Brisbane,QLD,Standard,2024-03-29,2025-07-29 12:54:38
+S026,Gold Coast Outlet Store 26,Gold Coast,QLD,Outlet,2022-01-14,2026-08-26 11:34:10
+S027,Adelaide Flagship Store 27,Adelaide,SA,Flagship,2023-03-12,2025-03-05 22:26:37
+S028,Hobart Standard Store 28,Hobart,TAS,Standard,2019-06-23,2025-05-20 13:38:53
+S029,Geelong Outlet Store 29,Geelong,VIC,Outlet,2022-03-15,2026-02-02 18:43:42
+S030,Brisbane Flagship Store 30,Brisbane,QLD,Flagship,2024-09-15,2025-01-30 13:56:01
+S031,Canberra Standard Store 31,Canberra,ACT,Standard,2019-12-31,2026-05-25 13:07:01
+S032,Melbourne Outlet Store 32,Melbourne,VIC,Outlet,2019-11-27,2025-08-19 11:52:04
+S033,Sydney Flagship Store 33,Sydney,NSW,Flagship,2018-04-22,2025-09-23 11:37:45
+S034,Perth Standard Store 34,Perth,WA,Standard,2024-07-18,2025-04-23 10:49:30
+S035,Parramatta Outlet Store 35,Parramatta,NSW,Outlet,2020-12-04,2026-09-08 08:56:12
+S036,Canberra Flagship Store 36,Canberra,ACT,Flagship,2021-11-18,2026-03-10 06:13:30
+S037,Gold Coast Standard Store 37,Gold Coast,QLD,Standard,2024-05-11,2026-06-09 22:46:17
+S038,Hobart Outlet Store 38,Hobart,TAS,Outlet,2018-12-15,2025-09-06 23:34:47
+S039,Adelaide Flagship Store 39,Adelaide,SA,Flagship,2023-12-06,2026-05-25 00:07:35
+S040,Canberra Standard Store 40,Canberra,ACT,Standard,2018-12-29,2025-03-31 03:46:14
+S041,Parramatta Outlet Store 41,Parramatta,NSW,Outlet,2023-04-23,2026-09-17 10:56:42
+S042,Sydney Flagship Store 42,Sydney,NSW,Flagship,2020-05-03,2025-07-26 03:17:15
+S043,Sydney Standard Store 43,Sydney,NSW,Standard,2021-02-02,2025-03-25 20:57:28
+S044,Melbourne Outlet Store 44,Melbourne,VIC,Outlet,2023-03-21,2025-04-11 04:31:32
+S045,Adelaide Flagship Store 45,Adelaide,SA,Flagship,2024-09-30,2026-03-03 07:15:47
+S046,Canberra Standard Store 46,Canberra,ACT,Standard,2023-06-11,2026-09-24 20:02:53
+S047,Canberra Outlet Store 47,Canberra,ACT,Outlet,2018-10-08,2025-07-16 21:11:11
+S048,Melbourne Flagship Store 48,Melbourne,VIC,Flagship,2023-09-10,2025-05-26 05:56:03
+S049,Brisbane Standard Store 49,Brisbane,QLD,Standard,2021-02-28,2026-06-16 09:42:52
+S050,Parramatta Outlet Store 50,Parramatta,NSW,Outlet,2021-07-26,2025-04-25 19:31:32
