@@ -1,0 +1,7 @@
+bronze to silver transistion
+- Source: LH_Ecommerce_Bronze.dbo.customers
+- Destination: LH_Ecommerce_Silver.dbo.dim_customer
+- Transformation: exact-row deduplication, email normalization and quality flags
+- Validation: Bronze count = 5,005; Silver count = 5,000
+- Email quality: 4,975 valid, 15 missing, 10 invalid
+- Gender validation: 5,000 accepted values
